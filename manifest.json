@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "8f4a2c1e-5b3d-4e7a-9c2f-1d6e8b0a3f57",
+        "name": "No Transcode",
+        "description": "Снимает флаги перекодирования в политике пользователей, оставляя только Direct Play. Применяется при старте сервера и к каждому новому пользователю.",
+        "overview": "Только Direct Play: снимает право на перекодирование у пользователей.",
+        "owner": "Kotatsu-Dev",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Первый релиз.",
+                "targetAbi": "12.0.0.0",
+                "sourceUrl": "https://github.com/Kotatsu-Dev/jellyfin-plugin-notranscode/releases/download/v1.0.0.0/jellyfin-plugin-notranscode_1.0.0.0.zip",
+                "checksum": "2d1666a048e9692a1e5bc8ca156b2382",
+                "timestamp": "2026-09-14T00:00:00Z"
+            }
+        ]
+    }
+]
